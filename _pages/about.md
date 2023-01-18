@@ -10,7 +10,7 @@ redirect_from:
 
 PHD student <br>
 Department of Computer Science, Hong Kong Baptist University, Hong Kong <br>
-<a href="ziyluo@gmail.com">ziyluo@gmail.com</a>
+<a href="mailto:ziyluo@gmail.com">ziyluo@gmail.com</a>
 
 A data-driven personal website
 ======
