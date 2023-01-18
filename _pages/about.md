@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PHD student
-Department of Computer Science, Hong Kong Baptist University, Hong Kong
-ziyluo@gmail.com
+PHD student <br>
+Department of Computer Science, Hong Kong Baptist University, Hong Kong <br>
+<a href="ziyluo@gmail.com">ziyluo@gmail.com</a>
 
 A data-driven personal website
 ======
