@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=kBFXUlwAAAAJ&hl=en&inst=10806615469772578445)
+You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=kBFXUlwAAAAJ&hl=en&inst=10806615469772578445).
 
 Journals & Conferences
 ======
