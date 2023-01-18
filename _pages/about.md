@@ -6,9 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+analytics: true
 ---
 
-analytics: true
+
 
 Ph.D student <br>
 Department of Computer Science, Hong Kong Baptist University, Hong Kong <br>
