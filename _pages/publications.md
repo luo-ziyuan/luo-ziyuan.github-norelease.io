@@ -17,8 +17,9 @@ Journals & Conferences
 **Ziyuan Luo** and Yong Deng <br>
 *IEEE Transactions on Fuzzy Systems*, 2019
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ -->
