@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 footer: true
+seo: true
 ---
 
 
