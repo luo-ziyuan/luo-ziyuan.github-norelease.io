@@ -9,8 +9,8 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 Journals & Conferences
 ======
-**A Matrix Method of Basic Belief Assignment's Negation in Dempster–Shafer Theory** 
-**Ziyuan Luo** and Yong Deng
+**A Matrix Method of Basic Belief Assignment's Negation in Dempster–Shafer Theory** <br>
+**Ziyuan Luo** and Yong Deng <br>
 ***IEEE Transactions on Fuzzy Systems***
 
 {% include base_path %}
