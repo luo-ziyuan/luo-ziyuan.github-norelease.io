@@ -9,9 +9,13 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 Journals & Conferences
 ======
+**A Vector and Geometry Interpretation of Basic Probability Assignment in Dempster‐Shafer Theory** <br>
+**Ziyuan Luo** and Yong Deng <br>
+*International Journal of Intelligent Systems*, 2020
+
 **A Matrix Method of Basic Belief Assignment's Negation in Dempster–Shafer Theory** <br>
 **Ziyuan Luo** and Yong Deng <br>
-***IEEE Transactions on Fuzzy Systems***
+*IEEE Transactions on Fuzzy Systems*, 2019
 
 {% include base_path %}
 
