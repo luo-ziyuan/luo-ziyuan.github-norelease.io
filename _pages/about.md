@@ -14,10 +14,12 @@ Department of Computer Science, Hong Kong Baptist University, Hong Kong <br>
 
 Education
 ======
-* Ph.D in Computer Science, **Hong Kong Baptist University** (Sep 2022 - present)
-  * Supervisor: <a href="https://wanrenjie.github.io/">Dr. WAN, Renjie</a>
-* Master in Electronic Engineering, **University of Electronic Science and Technology of China** (Sep 2019 - June 2022)
-* Bachelor in Communication Engineering, **University of Electronic Science and Technology of China** (Sep 2015 - June 2019)
+* **Hong Kong Baptist University** (Sep 2022 - present)
+  * Ph.D at Department of Computer Science || Supervisor: <a href="https://wanrenjie.github.io/">Dr. WAN, Renjie</a>
+* **University of Electronic Science & Technology of China** (Sep 2019 - June 2022)
+  * Master at School of Information & Communication Engineering
+* **University of Electronic Science & Technology of China** (Sep 2015 - June 2019)
+  * Bachelor at School of Information & Communication Engineering, UESTC outstanding student
 
 
 A data-driven personal website
