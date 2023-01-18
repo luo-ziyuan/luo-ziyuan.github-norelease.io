@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziyuan Luo 罗梓源"
 title_separator          : "-"
 name                     : &name "Ziyuan Luo"
-description              : &description "PHD student at Hong Kong Baptist University"
+description              : &description "Ph.D student at Hong Kong Baptist University"
 url                      : https://luo-ziyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luo-ziyuan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziyuan Luo"
   avatar           : "ziyuanluo.jpg"
-  bio              : "PHD student <br> Hong Kong Baptist University"
+  bio              : "Ph.D student <br> Hong Kong Baptist University"
   location         : "Hong Kong"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
