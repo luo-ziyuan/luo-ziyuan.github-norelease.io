@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "Awards & Honours"
-    url: /awards-and-honours/
+#   - title: "Awards & Honours"
+#     url: /awards-and-honours/
     
 #   - title: "Talks"
 #     url: /talks/    
